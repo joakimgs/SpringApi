@@ -1,6 +1,12 @@
 package com.axis.Axis;
 
 import javax.persistence.*;
+/**
+ * 
+ * @author Joaki
+ * JPA Entity class for the Ingredient table. 
+ * 
+ */
 @Entity
 public class Ingredient {
 	@Id
